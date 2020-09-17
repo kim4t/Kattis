@@ -9,7 +9,7 @@ if(aLen - bLen!=0):
             listB.insert(0,-1)
 
     else:
-        dif - bLen-aLen
+        dif = bLen-aLen
         for i in range(dif):
            listA.insert(0,-1)
 
